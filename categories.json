@@ -4,7 +4,7 @@
     "name":"Islands",
     "slug": "islands",
     "icon":"",
-    "image": "",
+    "image": "https://breathoftravels.netlify.app/static/image/category.webp",
     "srcSet": ""
   },
   {
@@ -12,7 +12,7 @@
     "name": "City",
     "slug": "city",
     "icon": "",
-    "image": "",
+    "image": "https://breathoftravels.netlify.app/static/image/category.webp",
     "srcSet": ""
   },
   {
@@ -20,7 +20,7 @@
     "name": "Health",
     "slug": "health",
     "icon": "",
-    "image": "",
+    "image": "https://breathoftravels.netlify.app/static/image/category.webp",
     "srcSet": ""
   },
   {
@@ -28,7 +28,7 @@
     "name": "Adventure",
     "slug": "adventure",
     "icon": "",
-    "image": "",
+    "image": "https://breathoftravels.netlify.app/static/image/category.webp",
     "srcSet": ""
   },
   {
@@ -36,7 +36,7 @@
     "name": "Tour",
     "slug": "tour",
     "icon": "",
-    "image": "",
+    "image": "https://breathoftravels.netlify.app/static/image/category.webp",
     "srcSet": ""
   },
   {
@@ -44,7 +44,7 @@
     "name": "Night Life",
     "slug": "night-life",
     "icon": "",
-    "image": "",
+    "image": "https://breathoftravels.netlify.app/static/image/category.webp",
     "srcSet": ""
   }
 ]
