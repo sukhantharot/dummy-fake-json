@@ -5,7 +5,7 @@
     "description": "Hello world,Your are ready to pay lol...",
     "price": 1000,
     "promotionPrice": 800,
-    "image": "https://breathoftravel.vercel.app/static/image/best-islands.webp",
+    "image": "https://breathoftravels.vercel.app/static/image/best-islands.webp",
     "srcSet": ""
   },
   {
@@ -14,7 +14,7 @@
     "description": "Hello world,Your are ready to pay lol...",
     "price": 1000,
     "promotionPrice": 800,
-    "image": "https://breathoftravel.vercel.app/static/image/best-islands.webp",
+    "image": "https://breathoftravels.vercel.app/static/image/best-islands.webp",
     "srcSet": ""
   },
   {
@@ -23,7 +23,7 @@
     "description": "Hello world,Your are ready to pay lol...",
     "price": 1000,
     "promotionPrice": 800,
-    "image": "https://breathoftravel.vercel.app/static/image/best-islands.webp",
+    "image": "https://breathoftravels.vercel.app/static/image/best-islands.webp",
     "srcSet": ""
   },
   {
@@ -32,7 +32,7 @@
     "description": "Hello world,Your are ready to pay lol...",
     "price": 1000,
     "promotionPrice": 800,
-    "image": "https://breathoftravel.vercel.app/static/image/best-islands.webp",
+    "image": "https://breathoftravels.vercel.app/static/image/best-islands.webp",
     "srcSet": ""
   }
 ]
