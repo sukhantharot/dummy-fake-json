@@ -1,0 +1,50 @@
+[
+  {
+    "id": "019246a8-37fe-762b-abbc-54a84d3b5e9f",
+    "name":"Islands",
+    "slug": "islands",
+    "icon":"",
+    "image": "",
+    "srcSet": ""
+  },
+  {
+    "id": "019246a8-37fe-7f83-a941-9c61868178e6",
+    "name": "City",
+    "slug": "city",
+    "icon": "",
+    "image": "",
+    "srcSet": ""
+  },
+  {
+    "id": "019246a8-37fe-7d7f-8b33-a8b2b8ac6110",
+    "name": "Health",
+    "slug": "health",
+    "icon": "",
+    "image": "",
+    "srcSet": ""
+  },
+  {
+    "id": "019246a8-37fe-702e-911e-aa171c44c2bf",
+    "name": "Adventure",
+    "slug": "adventure",
+    "icon": "",
+    "image": "",
+    "srcSet": ""
+  },
+  {
+    "id": "019246a8-37fe-77a1-aa8b-a3653708209d",
+    "name": "Tour",
+    "slug": "tour",
+    "icon": "",
+    "image": "",
+    "srcSet": ""
+  },
+  {
+    "id": "019246a8-37fe-76e9-b3e9-1bc47608de58",
+    "name": "Night Life",
+    "slug": "night-life",
+    "icon": "",
+    "image": "",
+    "srcSet": ""
+  }
+]
