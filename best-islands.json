@@ -5,7 +5,7 @@
     "description": "Hello world,Your are ready to pay lol...",
     "price": 1000,
     "promotionPrice": 800,
-    "image": "https://images.unsplash.com/photo-1540206351-d6465b3ac5c1?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=360&amp;h=480&amp;q=80",
+    "image": "https://breathoftravel.vercel.app/static/image/best-islands.webp",
     "srcSet": ""
   },
   {
@@ -14,7 +14,7 @@
     "description": "Hello world,Your are ready to pay lol...",
     "price": 1000,
     "promotionPrice": 800,
-    "image": "https://images.unsplash.com/photo-1540206351-d6465b3ac5c1?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=360&amp;h=480&amp;q=80",
+    "image": "https://breathoftravel.vercel.app/static/image/best-islands.webp",
     "srcSet": ""
   },
   {
@@ -23,7 +23,7 @@
     "description": "Hello world,Your are ready to pay lol...",
     "price": 1000,
     "promotionPrice": 800,
-    "image": "https://images.unsplash.com/photo-1540206351-d6465b3ac5c1?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=360&amp;h=480&amp;q=80",
+    "image": "https://breathoftravel.vercel.app/static/image/best-islands.webp",
     "srcSet": ""
   },
   {
@@ -32,7 +32,7 @@
     "description": "Hello world,Your are ready to pay lol...",
     "price": 1000,
     "promotionPrice": 800,
-    "image": "https://images.unsplash.com/photo-1540206351-d6465b3ac5c1?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=360&amp;h=480&amp;q=80",
+    "image": "https://breathoftravel.vercel.app/static/image/best-islands.webp",
     "srcSet": ""
   }
 ]
