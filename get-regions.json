@@ -1,0 +1,1237 @@
+[
+    {
+        "_id": "region#tha#1",
+        "search_text": "loei เลย loei loei 黎 loei, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 1,
+        "label": "loei",
+        "i18n_en": "loei",
+        "i18n_th": "เลย",
+        "i18n_ru": "loei",
+        "i18n_fr": "loei",
+        "i18n_zh": "黎",
+        "aliases": [
+            "loei, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#2",
+        "search_text": "pattani ปัตตานี 北大年 pattani, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 2,
+        "label": "pattani",
+        "i18n_en": "pattani",
+        "i18n_th": "ปัตตานี",
+        "i18n_zh": "北大年",
+        "aliases": [
+            "pattani, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#3",
+        "search_text": "surin สุรินทร์ сурин surin 苏林 surin, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 3,
+        "label": "surin",
+        "i18n_en": "surin",
+        "i18n_th": "สุรินทร์",
+        "i18n_ru": "сурин",
+        "i18n_fr": "surin",
+        "i18n_zh": "苏林",
+        "aliases": [
+            "surin, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#4",
+        "search_text": "yala ยะลา 也拉 yala, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 4,
+        "label": "yala",
+        "i18n_en": "yala",
+        "i18n_th": "ยะลา",
+        "i18n_zh": "也拉",
+        "aliases": [
+            "yala, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#5",
+        "search_text": "nan น่าน nan nan 难 nan, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 5,
+        "label": "nan",
+        "i18n_en": "nan",
+        "i18n_th": "น่าน",
+        "i18n_ru": "nan",
+        "i18n_fr": "nan",
+        "i18n_zh": "难",
+        "aliases": [
+            "nan, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#6",
+        "search_text": "roi-et ร้อยเอ็ด 黎逸 roi et, thailand roi et",
+        "type": "region",
+        "country": "tha",
+        "region_id": 6,
+        "label": "roi-et",
+        "i18n_en": "roi-et",
+        "i18n_th": "ร้อยเอ็ด",
+        "i18n_zh": "黎逸",
+        "aliases": [
+            "roi et, thailand",
+            "roi et"
+        ]
+    },
+    {
+        "_id": "region#tha#7",
+        "search_text": "sakon-nakhon สกลนคร sakon-nakhon sakon-nakhon 沙功那空 sakon nakhon, thailand sakon nakhon",
+        "type": "region",
+        "country": "tha",
+        "region_id": 7,
+        "label": "sakon-nakhon",
+        "i18n_en": "sakon-nakhon",
+        "i18n_th": "สกลนคร",
+        "i18n_ru": "sakon-nakhon",
+        "i18n_fr": "sakon-nakhon",
+        "i18n_zh": "沙功那空",
+        "aliases": [
+            "sakon nakhon, thailand",
+            "sakon nakhon"
+        ]
+    },
+    {
+        "_id": "region#tha#8",
+        "search_text": "phra-nakhon-si-ayutthaya พระนครศรีอยุธยา phra-nakhon-si-ayutthaya phra-nakhon-si-ayutthaya 大城 phra nakhon si ayutthaya, thailand phra nakhon si ayutthaya",
+        "type": "region",
+        "country": "tha",
+        "region_id": 8,
+        "label": "phra-nakhon-si-ayutthaya",
+        "i18n_en": "phra-nakhon-si-ayutthaya",
+        "i18n_th": "พระนครศรีอยุธยา",
+        "i18n_ru": "phra-nakhon-si-ayutthaya",
+        "i18n_fr": "phra-nakhon-si-ayutthaya",
+        "i18n_zh": "大城",
+        "aliases": [
+            "phra nakhon si ayutthaya, thailand",
+            "phra nakhon si ayutthaya"
+        ]
+    },
+    {
+        "_id": "region#tha#9",
+        "search_text": "amnat-charoen อำนาจเจริญ 庵纳乍能 amnat charoen, thailand amnat charoen",
+        "type": "region",
+        "country": "tha",
+        "region_id": 9,
+        "label": "amnat-charoen",
+        "i18n_en": "amnat-charoen",
+        "i18n_th": "อำนาจเจริญ",
+        "i18n_zh": "庵纳乍能",
+        "aliases": [
+            "amnat charoen, thailand",
+            "amnat charoen"
+        ]
+    },
+    {
+        "_id": "region#tha#10",
+        "search_text": "samut-sakhon สมุทรสาคร samut-sakhon samut-sakhon 龙仔厝 samut sakhon, thailand samut sakhon",
+        "type": "region",
+        "country": "tha",
+        "region_id": 10,
+        "label": "samut-sakhon",
+        "i18n_en": "samut-sakhon",
+        "i18n_th": "สมุทรสาคร",
+        "i18n_ru": "samut-sakhon",
+        "i18n_fr": "samut-sakhon",
+        "i18n_zh": "龙仔厝",
+        "aliases": [
+            "samut sakhon, thailand",
+            "samut sakhon"
+        ]
+    },
+    {
+        "_id": "region#tha#11",
+        "search_text": "samut-songkhram สมุทรสงคราม 夜功 samut songkhram, thailand samut songkhram",
+        "type": "region",
+        "country": "tha",
+        "region_id": 11,
+        "label": "samut-songkhram",
+        "i18n_en": "samut-songkhram",
+        "i18n_th": "สมุทรสงคราม",
+        "i18n_zh": "夜功",
+        "aliases": [
+            "samut songkhram, thailand",
+            "samut songkhram"
+        ]
+    },
+    {
+        "_id": "region#tha#12",
+        "search_text": "ratchaburi ราชบุรี ratchaburi ratchaburi 叻丕 ratchaburi, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 12,
+        "label": "ratchaburi",
+        "i18n_en": "ratchaburi",
+        "i18n_th": "ราชบุรี",
+        "i18n_ru": "ratchaburi",
+        "i18n_fr": "ratchaburi",
+        "i18n_zh": "叻丕",
+        "aliases": [
+            "ratchaburi, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#13",
+        "search_text": "ang-thong อ่างทอง 红统 ang thong, thailand ang thong",
+        "type": "region",
+        "country": "tha",
+        "region_id": 13,
+        "label": "ang-thong",
+        "i18n_en": "ang-thong",
+        "i18n_th": "อ่างทอง",
+        "i18n_zh": "红统",
+        "aliases": [
+            "ang thong, thailand",
+            "ang thong"
+        ]
+    },
+    {
+        "_id": "region#tha#14",
+        "search_text": "chanthaburi จันทบุรี chanthaburi chanthaburi 尖竹汶 chanthaburi, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 14,
+        "label": "chanthaburi",
+        "i18n_en": "chanthaburi",
+        "i18n_th": "จันทบุรี",
+        "i18n_ru": "chanthaburi",
+        "i18n_fr": "chanthaburi",
+        "i18n_zh": "尖竹汶",
+        "aliases": [
+            "chanthaburi, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#15",
+        "search_text": "chon-buri ชลบุรี чонбури 春武里 chon buri, thailand chon buri",
+        "type": "region",
+        "country": "tha",
+        "region_id": 15,
+        "label": "chon-buri",
+        "i18n_en": "chon-buri",
+        "i18n_th": "ชลบุรี",
+        "i18n_ru": "чонбури",
+        "i18n_zh": "春武里",
+        "aliases": [
+            "chon buri, thailand",
+            "chon buri"
+        ]
+    },
+    {
+        "_id": "region#tha#16",
+        "search_text": "ubon-ratchathani อุบลราชธานี ubon-ratchathani ubon-ratchathani 乌汶 ubon ratchathani, thailand ubon ratchathani",
+        "type": "region",
+        "country": "tha",
+        "region_id": 16,
+        "label": "ubon-ratchathani",
+        "i18n_en": "ubon-ratchathani",
+        "i18n_th": "อุบลราชธานี",
+        "i18n_ru": "ubon-ratchathani",
+        "i18n_fr": "ubon-ratchathani",
+        "i18n_zh": "乌汶",
+        "aliases": [
+            "ubon ratchathani, thailand",
+            "ubon ratchathani"
+        ]
+    },
+    {
+        "_id": "region#tha#17",
+        "search_text": "phayao พะเยา 碧瑶 phayao, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 17,
+        "label": "phayao",
+        "i18n_en": "phayao",
+        "i18n_th": "พะเยา",
+        "i18n_zh": "碧瑶",
+        "aliases": [
+            "phayao, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#18",
+        "search_text": "nakhon-sawan นครสวรรค์ nakhon-sawan nakhon-sawan 那空沙旺 nakhon sawan, thailand nakhon sawan",
+        "type": "region",
+        "country": "tha",
+        "region_id": 18,
+        "label": "nakhon-sawan",
+        "i18n_en": "nakhon-sawan",
+        "i18n_th": "นครสวรรค์",
+        "i18n_ru": "nakhon-sawan",
+        "i18n_fr": "nakhon-sawan",
+        "i18n_zh": "那空沙旺",
+        "aliases": [
+            "nakhon sawan, thailand",
+            "nakhon sawan"
+        ]
+    },
+    {
+        "_id": "region#tha#19",
+        "search_text": "kamphaeng-phet กำแพงเพชร 甘烹碧 kamphaeng phet, thailand kamphaeng phet",
+        "type": "region",
+        "country": "tha",
+        "region_id": 19,
+        "label": "kamphaeng-phet",
+        "i18n_en": "kamphaeng-phet",
+        "i18n_th": "กำแพงเพชร",
+        "i18n_zh": "甘烹碧",
+        "aliases": [
+            "kamphaeng phet, thailand",
+            "kamphaeng phet"
+        ]
+    },
+    {
+        "_id": "region#tha#20",
+        "search_text": "prachuap-khiri-khan ประจวบคีรีขันธ์ прачуап-кири-кхан prachuap-khiri-khan 班武里府 prachuap khiri khan, thailand prachuap khiri khan",
+        "type": "region",
+        "country": "tha",
+        "region_id": 20,
+        "label": "prachuap-khiri-khan",
+        "i18n_en": "prachuap-khiri-khan",
+        "i18n_th": "ประจวบคีรีขันธ์",
+        "i18n_ru": "прачуап-кири-кхан",
+        "i18n_fr": "prachuap-khiri-khan",
+        "i18n_zh": "班武里府",
+        "aliases": [
+            "prachuap khiri khan, thailand",
+            "prachuap khiri khan"
+        ]
+    },
+    {
+        "_id": "region#tha#21",
+        "search_text": "surat-thani สุราษฎร์ธานี сураттани surat-thani 素叻 surat thani, thailand surat thani",
+        "type": "region",
+        "country": "tha",
+        "region_id": 21,
+        "label": "surat-thani",
+        "i18n_en": "surat-thani",
+        "i18n_th": "สุราษฎร์ธานี",
+        "i18n_ru": "сураттани",
+        "i18n_fr": "surat-thani",
+        "i18n_zh": "素叻",
+        "aliases": [
+            "surat thani, thailand",
+            "surat thani"
+        ]
+    },
+    {
+        "_id": "region#tha#22",
+        "search_text": "phatthalung พัทลุง 博他仑 phatthalung, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 22,
+        "label": "phatthalung",
+        "i18n_en": "phatthalung",
+        "i18n_th": "พัทลุง",
+        "i18n_zh": "博他仑",
+        "aliases": [
+            "phatthalung, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#23",
+        "search_text": "bangkok กรุงเทพมหานคร бангкок bangkok 曼谷 bangkok, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 23,
+        "label": "bangkok",
+        "i18n_en": "bangkok",
+        "i18n_th": "กรุงเทพมหานคร",
+        "i18n_ru": "бангкок",
+        "i18n_fr": "bangkok",
+        "i18n_zh": "曼谷",
+        "aliases": [
+            "bangkok, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#24",
+        "search_text": "krabi กระบี่ краби krabi 甲米 krabi, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 24,
+        "label": "krabi",
+        "i18n_en": "krabi",
+        "i18n_th": "กระบี่",
+        "i18n_ru": "краби",
+        "i18n_fr": "krabi",
+        "i18n_zh": "甲米",
+        "aliases": [
+            "krabi, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#26",
+        "search_text": "trang ตรัง trang trang 董里 trang, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 26,
+        "label": "trang",
+        "i18n_en": "trang",
+        "i18n_th": "ตรัง",
+        "i18n_ru": "trang",
+        "i18n_fr": "trang",
+        "i18n_zh": "董里",
+        "aliases": [
+            "trang, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#27",
+        "search_text": "trat ตราด трат trat 达叻 trat, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 27,
+        "label": "trat",
+        "i18n_en": "trat",
+        "i18n_th": "ตราด",
+        "i18n_ru": "трат",
+        "i18n_fr": "trat",
+        "i18n_zh": "达叻",
+        "aliases": [
+            "trat, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#28",
+        "search_text": "sa-kaeo สระแก้ว 萨缴 sa kaeo, thailand sa kaeo",
+        "type": "region",
+        "country": "tha",
+        "region_id": 28,
+        "label": "sa-kaeo",
+        "i18n_en": "sa-kaeo",
+        "i18n_th": "สระแก้ว",
+        "i18n_zh": "萨缴",
+        "aliases": [
+            "sa kaeo, thailand",
+            "sa kaeo"
+        ]
+    },
+    {
+        "_id": "region#tha#29",
+        "search_text": "phitsanulok พิษณุโลก phitsanulok phitsanulok 彭世洛 phitsanulok, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 29,
+        "label": "phitsanulok",
+        "i18n_en": "phitsanulok",
+        "i18n_th": "พิษณุโลก",
+        "i18n_ru": "phitsanulok",
+        "i18n_fr": "phitsanulok",
+        "i18n_zh": "彭世洛",
+        "aliases": [
+            "phitsanulok, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#30",
+        "search_text": "nakhon-nayok นครนายก nakhon-nayok nakhon-nayok 那空那育 nakhon nayok, thailand nakhon nayok",
+        "type": "region",
+        "country": "tha",
+        "region_id": 30,
+        "label": "nakhon-nayok",
+        "i18n_en": "nakhon-nayok",
+        "i18n_th": "นครนายก",
+        "i18n_ru": "nakhon-nayok",
+        "i18n_fr": "nakhon-nayok",
+        "i18n_zh": "那空那育",
+        "aliases": [
+            "nakhon nayok, thailand",
+            "nakhon nayok"
+        ]
+    },
+    {
+        "_id": "region#tha#31",
+        "search_text": "nakhon-phanom นครพนม 那空帕农 nakhon phanom, thailand nakhon phanom",
+        "type": "region",
+        "country": "tha",
+        "region_id": 31,
+        "label": "nakhon-phanom",
+        "i18n_en": "nakhon-phanom",
+        "i18n_th": "นครพนม",
+        "i18n_zh": "那空帕农",
+        "aliases": [
+            "nakhon phanom, thailand",
+            "nakhon phanom"
+        ]
+    },
+    {
+        "_id": "region#tha#32",
+        "search_text": "narathiwat นราธิวาส 陶公 narathiwat, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 32,
+        "label": "narathiwat",
+        "i18n_en": "narathiwat",
+        "i18n_th": "นราธิวาส",
+        "i18n_zh": "陶公",
+        "aliases": [
+            "narathiwat, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#33",
+        "search_text": "songkhla สงขลา songkhla songkhla 宋卡 songkhla, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 33,
+        "label": "songkhla",
+        "i18n_en": "songkhla",
+        "i18n_th": "สงขลา",
+        "i18n_ru": "songkhla",
+        "i18n_fr": "songkhla",
+        "i18n_zh": "宋卡",
+        "aliases": [
+            "songkhla, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#34",
+        "search_text": "si-sa-ket ศรีสะเกษ 四色菊 si sa ket, thailand si sa ket",
+        "type": "region",
+        "country": "tha",
+        "region_id": 34,
+        "label": "si-sa-ket",
+        "i18n_en": "si-sa-ket",
+        "i18n_th": "ศรีสะเกษ",
+        "i18n_zh": "四色菊",
+        "aliases": [
+            "si sa ket, thailand",
+            "si sa ket"
+        ]
+    },
+    {
+        "_id": "region#tha#35",
+        "search_text": "yasothon ยโสธร yasothon yasothon 益梭通 yasothon, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 35,
+        "label": "yasothon",
+        "i18n_en": "yasothon",
+        "i18n_th": "ยโสธร",
+        "i18n_ru": "yasothon",
+        "i18n_fr": "yasothon",
+        "i18n_zh": "益梭通",
+        "aliases": [
+            "yasothon, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#36",
+        "search_text": "chiang-mai เชียงใหม่ чианг-маи chiang-mai 清迈 chiang mai, thailand chiang mai",
+        "type": "region",
+        "country": "tha",
+        "region_id": 36,
+        "label": "chiang-mai",
+        "i18n_en": "chiang-mai",
+        "i18n_th": "เชียงใหม่",
+        "i18n_ru": "чианг-маи",
+        "i18n_fr": "chiang-mai",
+        "i18n_zh": "清迈",
+        "aliases": [
+            "chiang mai, thailand",
+            "chiang mai"
+        ]
+    },
+    {
+        "_id": "region#tha#38",
+        "search_text": "mukdahan มุกดาหาร mukdahan mukdahan 莫拉限 mukdahan, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 38,
+        "label": "mukdahan",
+        "i18n_en": "mukdahan",
+        "i18n_th": "มุกดาหาร",
+        "i18n_ru": "mukdahan",
+        "i18n_fr": "mukdahan",
+        "i18n_zh": "莫拉限",
+        "aliases": [
+            "mukdahan, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#39",
+        "search_text": "lop-buri ลพบุรี 华富里 lop buri, thailand lop buri",
+        "type": "region",
+        "country": "tha",
+        "region_id": 39,
+        "label": "lop-buri",
+        "i18n_en": "lop-buri",
+        "i18n_th": "ลพบุรี",
+        "i18n_zh": "华富里",
+        "aliases": [
+            "lop buri, thailand",
+            "lop buri"
+        ]
+    },
+    {
+        "_id": "region#tha#40",
+        "search_text": "lampang ลำปาง lampang lampang 喃邦 lampang, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 40,
+        "label": "lampang",
+        "i18n_en": "lampang",
+        "i18n_th": "ลำปาง",
+        "i18n_ru": "lampang",
+        "i18n_fr": "lampang",
+        "i18n_zh": "喃邦",
+        "aliases": [
+            "lampang, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#41",
+        "search_text": "buri-ram บุรีรัมย์ buri-ram buri-ram 武里南 buri ram, thailand buri ram",
+        "type": "region",
+        "country": "tha",
+        "region_id": 41,
+        "label": "buri-ram",
+        "i18n_en": "buri-ram",
+        "i18n_th": "บุรีรัมย์",
+        "i18n_ru": "buri-ram",
+        "i18n_fr": "buri-ram",
+        "i18n_zh": "武里南",
+        "aliases": [
+            "buri ram, thailand",
+            "buri ram"
+        ]
+    },
+    {
+        "_id": "region#tha#42",
+        "search_text": "chaiyaphum ชัยภูมิ 猜也奔 chaiyaphum, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 42,
+        "label": "chaiyaphum",
+        "i18n_en": "chaiyaphum",
+        "i18n_th": "ชัยภูมิ",
+        "i18n_zh": "猜也奔",
+        "aliases": [
+            "chaiyaphum, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#43",
+        "search_text": "uthai-thani อุทัยธานี uthai-thani uthai-thani 乌泰他尼 uthai thani, thailand uthai thani",
+        "type": "region",
+        "country": "tha",
+        "region_id": 43,
+        "label": "uthai-thani",
+        "i18n_en": "uthai-thani",
+        "i18n_th": "อุทัยธานี",
+        "i18n_ru": "uthai-thani",
+        "i18n_fr": "uthai-thani",
+        "i18n_zh": "乌泰他尼",
+        "aliases": [
+            "uthai thani, thailand",
+            "uthai thani"
+        ]
+    },
+    {
+        "_id": "region#tha#44",
+        "search_text": "phichit พิจิตร phichit phichit 披集 phichit, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 44,
+        "label": "phichit",
+        "i18n_en": "phichit",
+        "i18n_th": "พิจิตร",
+        "i18n_ru": "phichit",
+        "i18n_fr": "phichit",
+        "i18n_zh": "披集",
+        "aliases": [
+            "phichit, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#45",
+        "search_text": "sing-buri สิงห์บุรี sing-buri sing-buri 信武里 sing buri, thailand sing buri",
+        "type": "region",
+        "country": "tha",
+        "region_id": 45,
+        "label": "sing-buri",
+        "i18n_en": "sing-buri",
+        "i18n_th": "สิงห์บุรี",
+        "i18n_ru": "sing-buri",
+        "i18n_fr": "sing-buri",
+        "i18n_zh": "信武里",
+        "aliases": [
+            "sing buri, thailand",
+            "sing buri"
+        ]
+    },
+    {
+        "_id": "region#tha#46",
+        "search_text": "nakhon-si-thammarat นครศรีธรรมราช nakhon-si-thammarat nakhon-si-thammarat 洛坤 nakhon si thammarat, thailand nakhon si thammarat",
+        "type": "region",
+        "country": "tha",
+        "region_id": 46,
+        "label": "nakhon-si-thammarat",
+        "i18n_en": "nakhon-si-thammarat",
+        "i18n_th": "นครศรีธรรมราช",
+        "i18n_ru": "nakhon-si-thammarat",
+        "i18n_fr": "nakhon-si-thammarat",
+        "i18n_zh": "洛坤",
+        "aliases": [
+            "nakhon si thammarat, thailand",
+            "nakhon si thammarat"
+        ]
+    },
+    {
+        "_id": "region#tha#50",
+        "search_text": "udon-thani อุดรธานี удонтани udon-thani 乌隆他尼 udon thani, thailand udon thani",
+        "type": "region",
+        "country": "tha",
+        "region_id": 50,
+        "label": "udon-thani",
+        "i18n_en": "udon-thani",
+        "i18n_th": "อุดรธานี",
+        "i18n_ru": "удонтани",
+        "i18n_fr": "udon-thani",
+        "i18n_zh": "乌隆他尼",
+        "aliases": [
+            "udon thani, thailand",
+            "udon thani"
+        ]
+    },
+    {
+        "_id": "region#tha#56",
+        "search_text": "pathum-thani ปทุมธานี патумтани pathum-thani 巴吞他尼 pathum thani, thailand pathum thani",
+        "type": "region",
+        "country": "tha",
+        "region_id": 56,
+        "label": "pathum-thani",
+        "i18n_en": "pathum-thani",
+        "i18n_th": "ปทุมธานี",
+        "i18n_ru": "патумтани",
+        "i18n_fr": "pathum-thani",
+        "i18n_zh": "巴吞他尼",
+        "aliases": [
+            "pathum thani, thailand",
+            "pathum thani"
+        ]
+    },
+    {
+        "_id": "region#tha#59",
+        "search_text": "rayong ระยอง районг rayong 罗勇府 rayong, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 59,
+        "label": "rayong",
+        "i18n_en": "rayong",
+        "i18n_th": "ระยอง",
+        "i18n_ru": "районг",
+        "i18n_fr": "rayong",
+        "i18n_zh": "罗勇府",
+        "aliases": [
+            "rayong, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#65",
+        "search_text": "suphan-buri สุพรรณบุรี супанбури suphan-buri 素攀武里 suphan buri, thailand suphan buri",
+        "type": "region",
+        "country": "tha",
+        "region_id": 65,
+        "label": "suphan-buri",
+        "i18n_en": "suphan-buri",
+        "i18n_th": "สุพรรณบุรี",
+        "i18n_ru": "супанбури",
+        "i18n_fr": "suphan-buri",
+        "i18n_zh": "素攀武里",
+        "aliases": [
+            "suphan buri, thailand",
+            "suphan buri"
+        ]
+    },
+    {
+        "_id": "region#tha#69",
+        "search_text": "chai-nat ชัยนาท chai-nat chai-nat 猜纳 chai nat, thailand chai nat",
+        "type": "region",
+        "country": "tha",
+        "region_id": 69,
+        "label": "chai-nat",
+        "i18n_en": "chai-nat",
+        "i18n_th": "ชัยนาท",
+        "i18n_ru": "chai-nat",
+        "i18n_fr": "chai-nat",
+        "i18n_zh": "猜纳",
+        "aliases": [
+            "chai nat, thailand",
+            "chai nat"
+        ]
+    },
+    {
+        "_id": "region#tha#78",
+        "search_text": "chiang-rai เชียงราย чианг-рай chiang-rai 清莱 chiang rai, thailand chiang rai",
+        "type": "region",
+        "country": "tha",
+        "region_id": 78,
+        "label": "chiang-rai",
+        "i18n_en": "chiang-rai",
+        "i18n_th": "เชียงราย",
+        "i18n_ru": "чианг-рай",
+        "i18n_fr": "chiang-rai",
+        "i18n_zh": "清莱",
+        "aliases": [
+            "chiang rai, thailand",
+            "chiang rai"
+        ]
+    },
+    {
+        "_id": "region#tha#80",
+        "search_text": "uttaradit อุตรดิตถ์ uttaradit uttaradit 程逸 uttaradit, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 80,
+        "label": "uttaradit",
+        "i18n_en": "uttaradit",
+        "i18n_th": "อุตรดิตถ์",
+        "i18n_ru": "uttaradit",
+        "i18n_fr": "uttaradit",
+        "i18n_zh": "程逸",
+        "aliases": [
+            "uttaradit, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#81",
+        "search_text": "sukhothai สุโขทัย sukhothai sukhothai 素可泰 sukhothai, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 81,
+        "label": "sukhothai",
+        "i18n_en": "sukhothai",
+        "i18n_th": "สุโขทัย",
+        "i18n_ru": "sukhothai",
+        "i18n_fr": "sukhothai",
+        "i18n_zh": "素可泰",
+        "aliases": [
+            "sukhothai, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#87",
+        "search_text": "khon-kaen ขอนแก่น кхонкен khon-kaen 孔敬 khon kaen, thailand khon kaen",
+        "type": "region",
+        "country": "tha",
+        "region_id": 87,
+        "label": "khon-kaen",
+        "i18n_en": "khon-kaen",
+        "i18n_th": "ขอนแก่น",
+        "i18n_ru": "кхонкен",
+        "i18n_fr": "khon-kaen",
+        "i18n_zh": "孔敬",
+        "aliases": [
+            "khon kaen, thailand",
+            "khon kaen"
+        ]
+    },
+    {
+        "_id": "region#tha#91",
+        "search_text": "nong-khai หนองคาย nong-khai nong-khai 廊开 nong khai, thailand nong khai",
+        "type": "region",
+        "country": "tha",
+        "region_id": 91,
+        "label": "nong-khai",
+        "i18n_en": "nong-khai",
+        "i18n_th": "หนองคาย",
+        "i18n_ru": "nong-khai",
+        "i18n_fr": "nong-khai",
+        "i18n_zh": "廊开",
+        "aliases": [
+            "nong khai, thailand",
+            "nong khai"
+        ]
+    },
+    {
+        "_id": "region#tha#101",
+        "search_text": "nakhon-ratchasima นครราชสีมา накхон-ратчасима nakhon-ratchasima 呵叻府 nakhon ratchasima, thailand nakhon ratchasima",
+        "type": "region",
+        "country": "tha",
+        "region_id": 101,
+        "label": "nakhon-ratchasima",
+        "i18n_en": "nakhon-ratchasima",
+        "i18n_th": "นครราชสีมา",
+        "i18n_ru": "накхон-ратчасима",
+        "i18n_fr": "nakhon-ratchasima",
+        "i18n_zh": "呵叻府",
+        "aliases": [
+            "nakhon ratchasima, thailand",
+            "nakhon ratchasima"
+        ]
+    },
+    {
+        "_id": "region#tha#105",
+        "search_text": "phetchaburi เพชรบุรี пхетчхабури phetchaburi 佛丕 phetchaburi, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 105,
+        "label": "phetchaburi",
+        "i18n_en": "phetchaburi",
+        "i18n_th": "เพชรบุรี",
+        "i18n_ru": "пхетчхабури",
+        "i18n_fr": "phetchaburi",
+        "i18n_zh": "佛丕",
+        "aliases": [
+            "phetchaburi, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#107",
+        "search_text": "prachin-buri ปราจีนบุรี prachin-buri prachin-buri 巴真武里 prachin buri, thailand prachin buri",
+        "type": "region",
+        "country": "tha",
+        "region_id": 107,
+        "label": "prachin-buri",
+        "i18n_en": "prachin-buri",
+        "i18n_th": "ปราจีนบุรี",
+        "i18n_ru": "prachin-buri",
+        "i18n_fr": "prachin-buri",
+        "i18n_zh": "巴真武里",
+        "aliases": [
+            "prachin buri, thailand",
+            "prachin buri"
+        ]
+    },
+    {
+        "_id": "region#tha#108",
+        "search_text": "lamphun ลำพูน лампхун lamphun 南奔府 lamphun, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 108,
+        "label": "lamphun",
+        "i18n_en": "lamphun",
+        "i18n_th": "ลำพูน",
+        "i18n_ru": "лампхун",
+        "i18n_fr": "lamphun",
+        "i18n_zh": "南奔府",
+        "aliases": [
+            "lamphun, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#110",
+        "search_text": "saraburi สระบุรี saraburi saraburi 北标 saraburi, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 110,
+        "label": "saraburi",
+        "i18n_en": "saraburi",
+        "i18n_th": "สระบุรี",
+        "i18n_ru": "saraburi",
+        "i18n_fr": "saraburi",
+        "i18n_zh": "北标",
+        "aliases": [
+            "saraburi, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#116",
+        "search_text": "kanchanaburi กาญจนบุรี kanchanaburi kanchanaburi 北碧 kanchanaburi, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 116,
+        "label": "kanchanaburi",
+        "i18n_en": "kanchanaburi",
+        "i18n_th": "กาญจนบุรี",
+        "i18n_ru": "kanchanaburi",
+        "i18n_fr": "kanchanaburi",
+        "i18n_zh": "北碧",
+        "aliases": [
+            "kanchanaburi, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#117",
+        "search_text": "phrae แพร่ 帕 phrae, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 117,
+        "label": "phrae",
+        "i18n_en": "phrae",
+        "i18n_th": "แพร่",
+        "i18n_zh": "帕",
+        "aliases": [
+            "phrae, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#118",
+        "search_text": "mae-hong-son แม่ฮ่องสอน pai pai 夜丰颂 mae hong son, thailand mae hong son",
+        "type": "region",
+        "country": "tha",
+        "region_id": 118,
+        "label": "mae-hong-son",
+        "i18n_en": "mae-hong-son",
+        "i18n_th": "แม่ฮ่องสอน",
+        "i18n_ru": "pai",
+        "i18n_fr": "pai",
+        "i18n_zh": "夜丰颂",
+        "aliases": [
+            "mae hong son, thailand",
+            "mae hong son"
+        ]
+    },
+    {
+        "_id": "region#tha#121",
+        "search_text": "nong-bua-lam-phu หนองบัวลำภู 廊磨南蒲 nong bua lam phu, thailand nong bua lam phu",
+        "type": "region",
+        "country": "tha",
+        "region_id": 121,
+        "label": "nong-bua-lam-phu",
+        "i18n_en": "nong-bua-lam-phu",
+        "i18n_th": "หนองบัวลำภู",
+        "i18n_zh": "廊磨南蒲",
+        "aliases": [
+            "nong bua lam phu, thailand",
+            "nong bua lam phu"
+        ]
+    },
+    {
+        "_id": "region#tha#122",
+        "search_text": "samut-prakan สมุทรปราการ самутпракан samut-prakan 北榄府 samut prakan, thailand samut prakan",
+        "type": "region",
+        "country": "tha",
+        "region_id": 122,
+        "label": "samut-prakan",
+        "i18n_en": "samut-prakan",
+        "i18n_th": "สมุทรปราการ",
+        "i18n_ru": "самутпракан",
+        "i18n_fr": "samut-prakan",
+        "i18n_zh": "北榄府",
+        "aliases": [
+            "samut prakan, thailand",
+            "samut prakan"
+        ]
+    },
+    {
+        "_id": "region#tha#131",
+        "search_text": "phetchabun เพชรบูรณ์ phetchabun phetchabun 碧差汶 phetchabun, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 131,
+        "label": "phetchabun",
+        "i18n_en": "phetchabun",
+        "i18n_th": "เพชรบูรณ์",
+        "i18n_ru": "phetchabun",
+        "i18n_fr": "phetchabun",
+        "i18n_zh": "碧差汶",
+        "aliases": [
+            "phetchabun, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#132",
+        "search_text": "chumphon ชุมพร chumphon chumphon 春蓬 chumphon, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 132,
+        "label": "chumphon",
+        "i18n_en": "chumphon",
+        "i18n_th": "ชุมพร",
+        "i18n_ru": "chumphon",
+        "i18n_fr": "chumphon",
+        "i18n_zh": "春蓬",
+        "aliases": [
+            "chumphon, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#133",
+        "search_text": "satun สตูล satun satun 沙敦 satun, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 133,
+        "label": "satun",
+        "i18n_en": "satun",
+        "i18n_th": "สตูล",
+        "i18n_ru": "satun",
+        "i18n_fr": "satun",
+        "i18n_zh": "沙敦",
+        "aliases": [
+            "satun, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#139",
+        "search_text": "maha-sarakham มหาสารคาม maha-sarakham maha-sarakham 吗哈沙拉堪 maha sarakham, thailand maha sarakham",
+        "type": "region",
+        "country": "tha",
+        "region_id": 139,
+        "label": "maha-sarakham",
+        "i18n_en": "maha-sarakham",
+        "i18n_th": "มหาสารคาม",
+        "i18n_ru": "maha-sarakham",
+        "i18n_fr": "maha-sarakham",
+        "i18n_zh": "吗哈沙拉堪",
+        "aliases": [
+            "maha sarakham, thailand",
+            "maha sarakham"
+        ]
+    },
+    {
+        "_id": "region#tha#142",
+        "search_text": "nakhon-pathom นครปฐม nakhon-pathom nakhon-pathom 佛统 nakhon pathom, thailand nakhon pathom",
+        "type": "region",
+        "country": "tha",
+        "region_id": 142,
+        "label": "nakhon-pathom",
+        "i18n_en": "nakhon-pathom",
+        "i18n_th": "นครปฐม",
+        "i18n_ru": "nakhon-pathom",
+        "i18n_fr": "nakhon-pathom",
+        "i18n_zh": "佛统",
+        "aliases": [
+            "nakhon pathom, thailand",
+            "nakhon pathom"
+        ]
+    },
+    {
+        "_id": "region#tha#143",
+        "search_text": "nonthaburi นนทบุรี нонтабури nonthaburi 暖武里 nonthaburi, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 143,
+        "label": "nonthaburi",
+        "i18n_en": "nonthaburi",
+        "i18n_th": "นนทบุรี",
+        "i18n_ru": "нонтабури",
+        "i18n_fr": "nonthaburi",
+        "i18n_zh": "暖武里",
+        "aliases": [
+            "nonthaburi, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#144",
+        "search_text": "chachoengsao ฉะเชิงเทรา chachoengsao chachoengsao 北柳 chachoengsao, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 144,
+        "label": "chachoengsao",
+        "i18n_en": "chachoengsao",
+        "i18n_th": "ฉะเชิงเทรา",
+        "i18n_ru": "chachoengsao",
+        "i18n_fr": "chachoengsao",
+        "i18n_zh": "北柳",
+        "aliases": [
+            "chachoengsao, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#147",
+        "search_text": "tak ตาก tak tak 达 tak, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 147,
+        "label": "tak",
+        "i18n_en": "tak",
+        "i18n_th": "ตาก",
+        "i18n_ru": "tak",
+        "i18n_fr": "tak",
+        "i18n_zh": "达",
+        "aliases": [
+            "tak, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#149",
+        "search_text": "ranong ระนอง ranong ranong 拉农 ranong, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 149,
+        "label": "ranong",
+        "i18n_en": "ranong",
+        "i18n_th": "ระนอง",
+        "i18n_ru": "ranong",
+        "i18n_fr": "ranong",
+        "i18n_zh": "拉农",
+        "aliases": [
+            "ranong, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#160",
+        "search_text": "bueng-kan บึงกาฬ bueng-kan bueng-kan 汶干府 bueng kan, thailand bueng kan",
+        "type": "region",
+        "country": "tha",
+        "region_id": 160,
+        "label": "bueng-kan",
+        "i18n_en": "bueng-kan",
+        "i18n_th": "บึงกาฬ",
+        "i18n_ru": "bueng-kan",
+        "i18n_fr": "bueng-kan",
+        "i18n_zh": "汶干府",
+        "aliases": [
+            "bueng kan, thailand",
+            "bueng kan"
+        ]
+    },
+    {
+        "_id": "region#tha#163",
+        "search_text": "phangnga พังงา пханга 攀牙 phangnga, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 163,
+        "label": "phangnga",
+        "i18n_en": "phangnga",
+        "i18n_th": "พังงา",
+        "i18n_ru": "пханга",
+        "i18n_zh": "攀牙",
+        "aliases": [
+            "phangnga, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#174",
+        "search_text": "kalasin กาฬสินธุ์ kalasin kalasin 胶拉信 kalasin, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 174,
+        "label": "kalasin",
+        "i18n_en": "kalasin",
+        "i18n_th": "กาฬสินธุ์",
+        "i18n_ru": "kalasin",
+        "i18n_fr": "kalasin",
+        "i18n_zh": "胶拉信",
+        "aliases": [
+            "kalasin, thailand"
+        ]
+    },
+    {
+        "_id": "region#tha#179",
+        "search_text": "phuket ภูเก็ต пхукет phuket phuket 普吉 phuket, thailand",
+        "type": "region",
+        "country": "tha",
+        "region_id": 179,
+        "label": "phuket",
+        "i18n_en": "phuket",
+        "i18n_th": "ภูเก็ต",
+        "i18n_ru": "пхукет",
+        "i18n_fr": "phuket",
+        "i18n_de": "phuket",
+        "i18n_zh": "普吉",
+        "aliases": [
+            "phuket, thailand"
+        ]
+    }
+]
